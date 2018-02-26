@@ -24,5 +24,7 @@ Hope this is not too much to ask for :) let me know if there is anything ive for
 
 
 [ ] [Tipjar](http://wiki.secondlife.com/wiki/Tipjar)
+
 [ ] [Visit Monitor](http://wiki.secondlife.com/wiki/Visit_Monitor)
-[ ] [DPD]([http://wiki.secondlife.com/wiki/Distributed_Primitive_Database)
+
+[ ] [DPD](http://wiki.secondlife.com/wiki/Distributed_Primitive_Database)
