@@ -23,10 +23,10 @@ timed options for parcel/platform scan for new guests (every ? minutes etc)
 Hope this is not too much to ask for :) let me know if there is anything ive forgotten you think i should have, im looking for it to be welcoming and informative but yet gentle and non invasive.
 
 
-[ ] [Tipjar](http://wiki.secondlife.com/wiki/Tipjar)
+- [ ] [Tipjar](http://wiki.secondlife.com/wiki/Tipjar)
 
-[ ] [Visit Monitor](http://wiki.secondlife.com/wiki/Visit_Monitor)
+- [ ] [Visit Monitor](http://wiki.secondlife.com/wiki/Visit_Monitor)
 
-[ ] [DPD](http://wiki.secondlife.com/wiki/Distributed_Primitive_Database)
+- [ ] [DPD](http://wiki.secondlife.com/wiki/Distributed_Primitive_Database)
 
 ..
